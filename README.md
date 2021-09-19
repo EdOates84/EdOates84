@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-<!-- [![Linkedin: Nitesh Mahawar](https://img.shields.io/badge/-Nitesh%20Mahawar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nitesh84/)](https://www.linkedin.com/in/nitesh84) -->
+[![Linkedin: Nitesh Mahawar](https://img.shields.io/badge/-Nitesh%20Mahawar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nitesh84/)](https://www.linkedin.com/in/nitesh84)
 
 
-<!-- My name is Nitesh Mahawar (he/him). I'm a [Student Developer](https://summerofcode.withgoogle.com/projects/#4566658905014272) at Red Hen Lab! I'm working mostly with ML model and pipeline automation along with Python and Node.js! I love Open-Source and I'm a developer since 2018! I love to teach and learn! I'm a former full stack developer at Newton School, Software developer at I'm Beside You Inc. 
+My name is Nitesh Mahawar (he/him). I have worked **twice** as a **Student Developer** at Red Hen Lab(Google Summer Of Code)! I'm working mostly with Software Development and pipeline automation along with Python and Node.js! I love Open-Source and I'm a developer since 2018! I love to teach and learn! I'm a former **Full-Stack Developer** at Newton School, **Web Developer** at I'm Beside You Inc. 
 
 I'm also an avid contributor to open source and love to create and develop new projects and ideas! I love building software that can help solve problems around the world.
 
@@ -30,4 +30,4 @@ These are some of the technologies and tools that I work with:
 
 ## ⚡ Fun facts
 
-- 🏸 I love to play badminton. -->
+- 🏸 I love to play badminton.
